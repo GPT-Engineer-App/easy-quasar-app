@@ -1,0 +1,15 @@
+{
+  "name": "quasar-project",
+  "version": "1.0.0",
+  "description": "A simple Quasar project",
+  "scripts": {
+    "dev": "quasar dev",
+    "build": "quasar build"
+  },
+  "dependencies": {
+    "quasar": "^2.0.0"
+  },
+  "devDependencies": {
+    "@quasar/app": "^3.0.0"
+  }
+}
